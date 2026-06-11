@@ -9,21 +9,33 @@ Applied data analysis techniques, including time series analysis, to generate me
 KEY FEATURES
 
 DATA MODELING: Structured and optimized sales data for efficient reporting and analysis.
+
 DAX CALCULATIONS: Created custom measures for KPIs such as Sales, Profit, Quantity, and Delivery Time.
+
 TIME SERIES ANALYSIS: Analyzed monthly sales and profit trends to identify business patterns.
+
 INTERACTIVE VISUALS: Developed dynamic charts and graphs for category, segment, and regional analysis.
+
 KPI TRACKING: Monitored key business metrics through intuitive KPI cards.
+
 CROSS-FILTERING: Enabled interactive filtering across visuals for deeper data exploration.
+
 BUSINESS INSIGHTS: Delivered actionable insights to support data-driven decision-making.
 
 KEY INSIGHTS
 
 Total Sales reached 1.57M with 175.26K profit.
+
 Consumer Segment contributed the highest sales (48%).
+
 Office Supplies was the top-performing category (0.64M).
+
 Phones generated the highest sales among sub-categories (0.20M).
+
 COD was the most preferred payment method (43%).
+
 West Region led overall sales performance (33%).
+
 Sales and profit peaked during the final quarter of the year.
 
 PROJECT CONCLUSION
